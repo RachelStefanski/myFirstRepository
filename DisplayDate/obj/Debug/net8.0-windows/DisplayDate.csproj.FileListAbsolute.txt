@@ -1,0 +1,2 @@
+C:\Users\User.DESKTOP-HT62HRR\Desktop\C#\Git\DisplayDate\DisplayDate\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\User.DESKTOP-HT62HRR\Desktop\C#\Git\DisplayDate\DisplayDate\obj\Debug\net8.0-windows\DisplayDate_MarkupCompile.cache
